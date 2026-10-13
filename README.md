@@ -1,4 +1,4 @@
-# aboutme.github.io
+# About Me
 
 Hello! My name is Hansika Addanki. I study at the University of Washington. This page says a little about me.
 
