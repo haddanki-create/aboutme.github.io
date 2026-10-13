@@ -2,8 +2,6 @@
 
 Hello! My name is Hansika Addanki. I study at the University of Washington. This page says a little about me.
 
-![Dubs](dubs.jpg "A picture of Dubs a.k.a. UW Example Student")
-
 ## Academics
 
 I am majoring in Informatics. I am currently enrolled in **ENGL396: Software Documentation**. When I graduate, 
